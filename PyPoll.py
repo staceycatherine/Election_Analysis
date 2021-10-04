@@ -101,7 +101,7 @@ with open(file_to_load) as election_data:
             f"------------------------\n")
 
     print(winning_candidate_summary)
-    
+
 
 
 
